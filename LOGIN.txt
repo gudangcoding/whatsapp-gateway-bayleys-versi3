@@ -1,0 +1,8 @@
+LOGIN
+Username: admin
+Password: 123456
+
+PESAN TERJADWAL
+Jalankan perintah cronjobs setiap 5-10 menit untuk mengaktifkan pesan terjadwal.
+Url manual: https://domainmu.com/api/send_jadwal.php
+Perintah cronjobs: wget -q -O /dev/null "https://domainmu.com/api/send_jadwal.php"
